@@ -15,7 +15,7 @@ function NewMeetUpPage() {
                 }
             }
         ).then(() => {
-            history.replace('/');
+            history.replace('/' );
         });
     }
 
